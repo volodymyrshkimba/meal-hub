@@ -1,0 +1,21 @@
+.pageHeader {
+  background-color: #f2f4f7;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.linkList {
+  display: flex;
+  gap: 32px;
+}
+
+.link {
+  padding: 24px 0;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #101828;
+}
